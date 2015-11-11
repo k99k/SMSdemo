@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMSdemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="bt1">sdkInit</string>
+    <string name="bt2">sdkPay - without confirm</string>
+    <string name="bt3">sdkPay -  with confirm </string>
+    <string name="txt1">费用,以分为单位 </string>
+    <string name="bt4">sdkPay -  支付指定费用 </string>
+
+</resources>
